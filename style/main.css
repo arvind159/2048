@@ -314,12 +314,8 @@ hr {
     z-index: 0;
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
-<<<<<<< HEAD
-    background: url("http://www.github.com/yourAccount/2048/imageFolder/image.jpg");
     background-size: 100%
-=======
     background: url("http://www.github.com/arvind159/2048/style/Chem/2.png");
->>>>>>> f12bfffaa38f76501642d845fecd466363536b23
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: url('../style/Chem/4.png');
