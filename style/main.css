@@ -231,6 +231,7 @@ hr {
 .tile, .tile .tile-inner {
   width: 93px;
   height: 107px;
+  background-size: 100%
   line-height: 116.25px; }
 .tile.tile-position-1-1 {
   -webkit-transform: translate(0px, 0px);
@@ -313,7 +314,8 @@ hr {
     z-index: 0;
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
-    background: url('../style/Chem/2.png');
+    background: url("http://www.github.com/yourAccount/2048/imageFolder/image.jpg");
+    background-size: 100%
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: url('../style/Chem/4.png');
